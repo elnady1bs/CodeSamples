@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 
 MAINTAINER Knox Hutchinson "khutchinson@cbtnuggets.com"
 
